@@ -1,5 +1,5 @@
 # IT-PLATECH
-Project
+Project Priority Scheduling
 import java.util.*; 
   
 /// Data Structure 
