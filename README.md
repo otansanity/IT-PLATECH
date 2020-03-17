@@ -86,6 +86,6 @@ class FindGantChart {
         } 
   
         // create object of output class and call method 
-        new ResultOutput(result); :
+        new ResultOutput(result);
     } 
 }
